@@ -1,0 +1,61 @@
+﻿@{
+    Layout = "_Layout";
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+}
+
+<div class="">
+    <aside class="bg-success col fixed-top h-100" style="width: 300px">
+        <div style="padding: 20px;">
+            <h5 class="navbar-brand fw-bold text-white">IniGadget</h5>
+
+            <!-- Menu -->
+            <p class="text-white fw-bold mt-3">Menu</p>
+            <div>
+                <a class="btn w-100 text-start @(currentAction == "Index" ? " btn-light text-success fw-semibold" : "text-white")" asp-action="Index" asp-controller="Dashboard">
+                    <i class="bi bi-grid me-2"></i> Dashboard
+                </a>
+            </div>
+            <div class="">
+                <a class="btn w-100 text-start @(currentAction == "Analytics" ? " btn-light text-success fw-semibold" : "text-white")" asp-action="Analytics" asp-controller="Dashboard">
+                    <i class="bi bi-graph-up-arrow me-2"></i> Analitik
+                </a>
+            </div>
+            <div>
+                <a class="btn w-100 text-start @(currentAction == "Sales" ? " btn-light text-success fw-semibold" : "text-white")" asp-action="Sales" asp-controller="Dashboard">
+                    <i class="bi bi-percent me-2"></i> Penjualan
+                </a>
+            </div>
+            <div>
+                <a class="btn w-100 text-start @(currentAction == "Users" ? " btn-light text-success fw-semibold" : "text-white")" asp-action="Users" asp-controller="Dashboard">
+                    <i class="bi bi-person me-2"></i> Pengguna
+                </a>
+            </div>
+
+            <!-- Menu -->
+            <p class="text-white fw-bold mt-3">Produk</p>
+            <div>
+                <a class="btn w-100 text-start @(currentAction == "Categories" ? " btn-light text-success fw-semibold" : "text-white")" asp-action="Categories" asp-controller="Dashboard">
+                    <i class="bi bi-tags me-2"></i> Kategori
+                </a>
+            </div>
+            <div>
+                <a class="btn w-100 text-start @(currentAction == "Products" ? " btn-light text-success font-semibold" : "text-white")" asp-action="Products" asp-controller="Dashboard">
+                    <i class="bi bi-box-seam me-2"></i> Detail Produk
+                </a>
+            </div>
+        </div>
+    </aside>
+
+    <div class="bg-light fixed-top h-100" style="margin-left: 300px">
+        <main style="padding: 20px; background-color: #F8FAFC; height: 100%">
+            <div>
+                @RenderBody()
+            </div>
+        </main>
+    </div>
+</div>
+
+<!--Render Modal-->
+@RenderSection("ModalSection", required: false)
+
+@RenderSection("Scripts", required: false)

@@ -1,0 +1,76 @@
+﻿@using System.Security.Claims
+@{
+    Layout = "_Layout";
+}
+
+<header class="fixed-top">
+    <!-- Top Promo Bar -->
+    <div class="bg-light border-bottom small py-1 text-center">
+        📱 Gratis Ongkir + Banyak Promo <a href="#" class="text-decoration-none">belanja di aplikasi</a>
+    </div>
+
+    <!-- Main Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-success border-bottom py-4">
+        <div class="container-fluid d-flex align-items-center">
+
+            <!-- Logo -->
+            <a class="navbar-brand fw-bold text-white" href="#">IniGadget</a>
+
+            <!-- Kategori (desktop) -->
+            <button class="btn btn-link text-white d-none d-lg-block">Kategori</button>
+
+            <!-- Search bar -->
+            <form class="d-flex flex-grow-1 mx-5">
+                <input class="form-control" type="search" placeholder="Cari di IniGadget">
+            </form>
+
+            <span class="text-white me-5">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+                    <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2" />
+                </svg>
+            </span>
+
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <div class="d-flex">
+                    <!-- Tombol Masuk / Daftar -->
+                    <a asp-controller="Auth" asp-action="Login" class="btn btn-outline-light me-2">Masuk</a>
+                    <a asp-controller="Auth" asp-action="Register" class="btn btn-light text-success">Daftar</a>
+                </div>
+            } else
+            {
+                <div class="">
+                    <div class=" btn btn-light rounded-circle d-flex justify-content-center align-items-center bg-white dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="height: 40px; width: 40px;">
+                        S
+                    </div>
+                    <ul class="dropdown-menu dropdown-menu-end">
+                        <div class="px-3 py-1 border-bottom">
+                            <p class="username card-subtitle">@User.FindFirstValue(ClaimTypes.Name)</p>
+                            <p class="email card-subtitle">@User.FindFirstValue(ClaimTypes.Email)</p>
+                        </div>
+                        <li><a class="dropdown-item" href="#">Profil</a></li>
+                        <li><a class="dropdown-item" href="#">Dashboard</a></li>
+                        <li>
+                            <form asp-controller="Auth" asp-action="Logout" method="post">
+                                <button type="submit" class="btn ">Logout</button>    
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+            }
+
+        </div>
+    </nav>
+
+</header>
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2025 - IniGadget - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
