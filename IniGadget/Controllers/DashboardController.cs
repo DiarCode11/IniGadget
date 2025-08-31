@@ -1,6 +1,7 @@
 ﻿using IniGadget.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace IniGadget.Controllers
 {
@@ -48,9 +49,10 @@ namespace IniGadget.Controllers
         }
 
         [HttpGet("/dashboard/categories")]
-        public IActionResult Categories()
+        public async Task<IActionResult> Categories()
         {
-            return View();
+            var categories = await _context.Category.ToListAsync();
+            return View(categories);
         }
 
         [HttpGet("/dashboard/products")]

@@ -91,6 +91,11 @@
                 const email = document.getElementById("EditEmail").value
                 const role = document.querySelector(".EditRole:checked").value;
 
+                // Kosongkan pesan error
+                document.getElementById("errorName").textContent = "";
+                document.getElementById("errorEmail").textContent = "";
+                document.getElementById("errorRole").textContent = "";
+
                 fetch("/users/update", {
                     method: "PUT",
                     headers: {
@@ -106,7 +111,7 @@
                 .then(async response => {
                     if (!response.ok){
                         const error = await response.json();
-                        console.log("Error abangku")
+                        throw error;
                     }
 
                     return response.json();
@@ -115,7 +120,16 @@
                     console.log("Sukses: ", data);
                     window.location.reload()
                 })
-                .catch(error => console.log("Error: ", error))
+                .catch(error => {
+                    console.log("Error: ", error);
+                    if (error.Name && error.Name.length > 0) {
+                        document.getElementById("errorName").textContent = error.Name[0];
+                    } if (error.Email && error.Email.length > 0){
+                        document.getElementById("errorEmail").textContent = error.Email[0];
+                    } if (error.Role && error.Role.length > 0) {
+                        document.getElementById("errorRole").textContent = error.Role[0];
+                    }
+                })
             });
 
             delBtn.forEach(btn => {

@@ -16,10 +16,12 @@
                     <div>
                         <label class="form-label">Nama</label>
                         <input type="text" id="EditName" name="name" value="" class="form-control" />
+                        <span class="text-danger" id="errorName"></span>
                     </div>
                     <div class="mt-2">
                         <label class="form-label">Email</label>
                         <input type="email" id="EditEmail" name="email" class="form-control" />
+                        <span class="text-danger" id="errorEmail"></span>
                     </div>
                     <div class="mt-2">
                         <label class="form-label">Role</label>
@@ -37,11 +39,12 @@
                                 <label class="form-check-label" for="role3">Admin</label>
                             </div>
                         </div>
+                        <span class="text-danger" id="errorRole"></span>
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button id="EditButton" type="button" class="btn btn-primary">Save changes</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Batal</button>
+                    <button id="EditButton" type="button" class="btn btn-primary">Simpan</button>
                 </div>
             </form>
         </div>

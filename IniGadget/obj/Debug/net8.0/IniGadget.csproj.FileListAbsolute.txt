@@ -119,6 +119,7 @@ D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\IniGadget.csproj.
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\IniGadget.MvcApplicationPartsAssemblyInfo.cache
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\IniGadget.RazorAssemblyInfo.cache
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\IniGadget.RazorAssemblyInfo.cs
+D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\IniGadget.sourcelink.json
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\PROJECT MANDIRI\ASPNET\IniGadget\IniGadget\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
