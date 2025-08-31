@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IniGadget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55893b4deff7871fe956d21ae1602df42211238")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee7edb09a47e6ab121239fc70ca2606ddec96cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("IniGadget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IniGadget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

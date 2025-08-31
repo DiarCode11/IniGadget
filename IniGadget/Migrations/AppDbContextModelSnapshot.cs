@@ -66,11 +66,11 @@ namespace IniGadget.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<uint>("Price")
-                        .HasColumnType("int unsigned");
+                    b.Property<ulong>("Price")
+                        .HasColumnType("bigint unsigned");
 
-                    b.Property<uint>("Stock")
-                        .HasColumnType("int unsigned");
+                    b.Property<ulong>("Stock")
+                        .HasColumnType("bigint unsigned");
 
                     b.HasKey("Id");
 

@@ -56,9 +56,15 @@ namespace IniGadget.Controllers
         }
 
         [HttpGet("/dashboard/products")]
-        public IActionResult Products()
+        public async Task<IActionResult> Products()
         {
-            return View();
+            ProductCategoryList pcList = new ProductCategoryList
+            {
+                Products = await _context.Products.Include(p => p.Category).ToListAsync(),
+                Categories = await _context.Category.ToListAsync()
+                
+            };
+            return View(pcList);
         }
     }
 }

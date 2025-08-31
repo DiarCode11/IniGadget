@@ -2,6 +2,7 @@
     ViewData["Title"] = "Home Page";
     Layout = "_HomeLayout";
 }
+@model ProductCategoryList
 
 <!-- Banner Section -->
 <section class="card bg-dark text-white rounded-3 overflow-hidden my-4" style="width: 100%; height: 300px; border-radius: 50px;">
@@ -14,61 +15,15 @@
         <h5 class="mb-4">Kategori</h5>
 
         <div class="d-flex flex-wrap justify-content-between">
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
+            @foreach (var c in Model.Categories)
+            {
+                <div class="text-center">
+                    <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
+                        <img src="~/images/categories/@c.IconName" class="card-img categories-img" />
+                    </div>
+                    <p>@c.Name</p>
                 </div>
-                <p>Smartphone</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Laptop & PC</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Wearables</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Aksesoris</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Gaming</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Smart Home</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Kamera</p>
-            </div>
-
-            <div class="text-center">
-                <div class="card categories-card mx-auto" style="width: 100px; height: 100px;">
-                    <img src="..." class="card-img categories-img" />
-                </div>
-                <p>Audio</p>
-            </div>
+            }
         </div>
     </div>
 </section>
@@ -79,13 +34,15 @@
         <h3 class="text-center text-success">Rekomendasi Produk</h3>
         <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6 gap-2">
             <div class="col">
-                <div class="card">
-                    <img class="card-img-top" src="" alt="Card Image" />
-                    <div class="card-body">
-                        <h1 class="card-title">Test card</h1>
-
+                @foreach(var p in Model.Products)
+                {
+                    <div class="card">
+                        <img class="card-img-top" src="~/images/products/@p.ImagePath" alt="Card Image" />
+                        <div class="card-body">
+                            <h5 class="card-title">@p.Name</h5>
+                        </div>
                     </div>
-                </div>
+                }
             </div>
         </div>
     </div>

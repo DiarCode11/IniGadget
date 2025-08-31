@@ -1,13 +1,17 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\categories\397cafac-605d-4194-86dd-a60832814185.jpg
 wwwroot\images\categories\3b624929-50a2-4eef-93d4-382f61a04f87.jpg
 wwwroot\images\categories\86e484f6-b051-4362-a54b-39145ebf2644.jpg
+wwwroot\images\categories\908dc4b8-9a79-4bec-b652-b5e89a37d615.png
 wwwroot\images\categories\a521adf7-6107-4b43-8331-a7bd0b231e86.jpg
-wwwroot\images\categories\a9a27c37-1d6a-4bd0-a878-d462023e86f7.png
 wwwroot\images\categories\c0ed19b4-a472-4dca-94c9-c5ef5651afb2.png
 wwwroot\images\categories\c7ed7a8c-ba91-413d-8247-81a944c73916.jpg
 wwwroot\images\categories\ea6dde9b-32e7-4945-8afa-c052709121ed.png
 wwwroot\images\categories\IconHP.jpg
+wwwroot\images\products\3d052a10-1973-42d4-83c7-019aeaefe4a7.jpg
+wwwroot\images\products\865bab40-dc0b-438e-9f94-f5574a07731a.jpg
+wwwroot\images\products\bd6eb1de-433c-449e-9a58-26f51977a97b.jpg
+wwwroot\images\products\fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -66,3 +70,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\site.css
