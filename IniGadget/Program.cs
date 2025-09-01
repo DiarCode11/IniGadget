@@ -1,3 +1,4 @@
+using IniGadget.Middlewares;
 using IniGadget.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -42,6 +43,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseMiddleware<DashboardMiddleware>();
 
 app.MapControllerRoute(
     name: "default",

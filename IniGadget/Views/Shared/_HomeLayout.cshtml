@@ -49,7 +49,7 @@
                             <p class="email card-subtitle">@User.FindFirstValue(ClaimTypes.Email)</p>
                         </div>
                         <li><a class="dropdown-item" href="#">Profil</a></li>
-                        <li><a class="dropdown-item" href="#">Dashboard</a></li>
+                        <li><a class="dropdown-item" href="/dashboard/users">Dashboard</a></li>
                         <li>
                             <form asp-controller="Auth" asp-action="Logout" method="post">
                                 <button type="submit" class="btn ">Logout</button>    

@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\middlewares\\dashboardmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\middlewares\\dashboardmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\inigadget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\inigadget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\dashboard\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\dashboard\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -15,28 +83,12 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\dashboard\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\dashboard\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\dashboard\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\dashboard\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\wwwroot\\images\\products\\fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\wwwroot\\images\\products\\fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -95,20 +143,8 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\wwwroot\\images\\categories\\c0ed19b4-a472-4dca-94c9-c5ef5651afb2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\migrations\\20250828011644_create_users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\migrations\\20250828011644_create_users_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\inigadget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\inigadget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,16 +159,8 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\modal\\_updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\inigadget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\inigadget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\wwwroot\\images\\categories\\3b624929-50a2-4eef-93d4-382f61a04f87.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -143,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\wwwroot\\images\\categories\\86e484f6-b051-4362-a54b-39145ebf2644.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,20 +179,12 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\dashboard\\analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\dashboard\\analytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -183,10 +199,6 @@
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -197,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|solutionrelative:inigadget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F3D62C-140A-4C70-9A4B-6345A7DF7363}|IniGadget\\IniGadget.csproj|d:\\project mandiri\\aspnet\\inigadget\\inigadget\\migrations\\20250828012701_add_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,50 +230,231 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yaml",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\docker-compose.yaml",
-              "RelativeDocumentMoniker": "docker-compose.yaml",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\docker-compose.yaml",
-              "RelativeToolTip": "docker-compose.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-31T14:37:25.458Z",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IniGadget\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IniGadget\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T01:05:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T06:51:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:07:21.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DockerFile",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\DockerFile",
-              "RelativeDocumentMoniker": "DockerFile",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\DockerFile",
-              "RelativeToolTip": "DockerFile",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.json",
+              "RelativeDocumentMoniker": "IniGadget\\appsettings.json",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.json",
+              "RelativeToolTip": "IniGadget\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-31T14:35:58.503Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T00:54:11.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "IniGadget\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "IniGadget\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-27T14:14:58.293Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IniGadget\\appsettings.Development.json",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.Development.json*",
+              "RelativeToolTip": "IniGadget\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T00:54:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Program.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Program.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Program.cs",
+              "RelativeToolTip": "IniGadget\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:00:45.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IniGadget\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwDwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:25:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "IniGadget\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:30:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Users.cshtml",
+              "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Users.cshtml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Users.cshtml",
+              "RelativeToolTip": "IniGadget\\Views\\Dashboard\\Users.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:57:11.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IniGadget\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:26:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardMiddleware.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Middlewares\\DashboardMiddleware.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Middlewares\\DashboardMiddleware.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Middlewares\\DashboardMiddleware.cs",
+              "RelativeToolTip": "IniGadget\\Middlewares\\DashboardMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:57:34.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T23:16:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "IniGadget\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T23:54:30.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IniGadget.csproj",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
+              "RelativeDocumentMoniker": "IniGadget\\IniGadget.csproj",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
+              "RelativeToolTip": "IniGadget\\IniGadget.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T00:10:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-30T04:54:57.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IniGadget\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T01:14:17.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IniGadget\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IniGadget\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:46:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\UserModel.cs",
@@ -278,46 +467,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IniGadget\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T05:46:41.475Z",
-              "EditorCaption": ""
+              "DocumentIndex": 18,
+              "Title": "DockerFile",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\DockerFile",
+              "RelativeDocumentMoniker": "DockerFile",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\DockerFile",
+              "RelativeToolTip": "DockerFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-31T14:35:58.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "IniGadget\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwJ0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T01:14:17.648Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "docker-compose.yaml",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\docker-compose.yaml",
+              "RelativeToolTip": "docker-compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-31T14:37:25.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "IniGadget\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA4wEIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:30:46.552Z",
-              "EditorCaption": ""
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IniGadget\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IniGadget\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-27T14:14:58.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Home\\Index.cshtml",
@@ -325,25 +511,11 @@
               "RelativeToolTip": "IniGadget\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:10:03.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T14:10:03.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_DashboardLayout.cshtml",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeToolTip": "IniGadget\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T06:51:04.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Products.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Products.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Products.cshtml",
@@ -351,12 +523,11 @@
               "RelativeToolTip": "IniGadget\\Views\\Dashboard\\Products.cshtml",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAAAGIBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-29T05:00:33.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T05:00:33.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Categories.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Categories.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Categories.cshtml",
@@ -364,12 +535,11 @@
               "RelativeToolTip": "IniGadget\\Views\\Dashboard\\Categories.cshtml",
               "ViewState": "AgIAAIQAAAAAAAAAAAAAAHEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-29T04:58:00.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T04:58:00.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Index.cshtml",
@@ -377,12 +547,11 @@
               "RelativeToolTip": "IniGadget\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T06:48:41.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:48:41.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "IniGadget\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -390,12 +559,11 @@
               "RelativeToolTip": "IniGadget\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T10:18:25.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T10:18:25.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "IniGadget\\Controllers\\CategoryController.cs",
@@ -403,12 +571,11 @@
               "RelativeToolTip": "IniGadget\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAqwEUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T07:44:14.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T07:44:14.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\ProductModel.cs",
@@ -416,12 +583,11 @@
               "RelativeToolTip": "IniGadget\\Models\\ProductModel.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAYwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T06:41:13.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T06:41:13.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\ProductViewModel.cs",
@@ -429,24 +595,11 @@
               "RelativeToolTip": "IniGadget\\Models\\ProductViewModel.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAUwCkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T01:07:38.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T01:07:38.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Users.cshtml",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Users.cshtml",
-              "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Users.cshtml",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Users.cshtml",
-              "RelativeToolTip": "IniGadget\\Views\\Dashboard\\Users.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-29T04:57:11.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "CategoryViewModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\CategoryViewModel.cs",
@@ -458,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Sales.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Sales.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Sales.cshtml",
@@ -470,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg - Bitmap [310x163, 24 bit, JPG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\products\\fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\products\\fa0a71ff-e1e3-4524-8c6f-455dec6b1d84.jpg",
@@ -482,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "c0ed19b4-a472-4dca-94c9-c5ef5651afb2.png - PNG [1200x800, 32 bit, PNG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\categories\\c0ed19b4-a472-4dca-94c9-c5ef5651afb2.png",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\categories\\c0ed19b4-a472-4dca-94c9-c5ef5651afb2.png",
@@ -494,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "ea6dde9b-32e7-4945-8afa-c052709121ed.png - PNG [476x476, 32 bit, PNG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\categories\\ea6dde9b-32e7-4945-8afa-c052709121ed.png",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\categories\\ea6dde9b-32e7-4945-8afa-c052709121ed.png",
@@ -506,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "IconHP.jpg - Bitmap [1000x667, 24 bit, JPG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\categories\\IconHP.jpg",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\categories\\IconHP.jpg",
@@ -518,19 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IniGadget\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T14:26:02.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "20250831022041_create_nullable_price.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Migrations\\20250831022041_create_nullable_price.cs",
               "RelativeDocumentMoniker": "IniGadget\\Migrations\\20250831022041_create_nullable_price.cs",
@@ -542,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "20250828011644_create_users_table.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Migrations\\20250828011644_create_users_table.cs",
               "RelativeDocumentMoniker": "IniGadget\\Migrations\\20250828011644_create_users_table.cs",
@@ -554,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\ErrorViewModel.cs",
@@ -566,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\CategoryModel.cs",
@@ -578,31 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IniGadget.csproj",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
-              "RelativeDocumentMoniker": "IniGadget\\IniGadget.csproj",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
-              "RelativeToolTip": "IniGadget\\IniGadget.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-31T00:10:00.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-30T04:54:57.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "_UpdateUser.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\Modal\\_UpdateUser.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\Modal\\_UpdateUser.cshtml",
@@ -614,30 +731,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IniGadget\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IniGadget\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T01:05:06.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "IniGadget",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
               "RelativeDocumentMoniker": "IniGadget\\IniGadget.csproj",
               "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\IniGadget.csproj",
               "RelativeToolTip": "IniGadget\\IniGadget.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-30T23:42:29.465Z"
+              "WhenOpened": "2025-08-30T23:42:29.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "3b624929-50a2-4eef-93d4-382f61a04f87.jpg - Bitmap [1000x667, 24 bit, JPG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\categories\\3b624929-50a2-4eef-93d4-382f61a04f87.jpg",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\categories\\3b624929-50a2-4eef-93d4-382f61a04f87.jpg",
@@ -649,19 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "IniGadget\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowHgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:25:28.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "86e484f6-b051-4362-a54b-39145ebf2644.jpg - Bitmap [1000x667, 24 bit, JPG]",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\images\\categories\\86e484f6-b051-4362-a54b-39145ebf2644.jpg",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\images\\categories\\86e484f6-b051-4362-a54b-39145ebf2644.jpg",
@@ -673,19 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeToolTip": "IniGadget\\Views\\Shared\\_AuthLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T23:16:20.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "20250830072957_create_product_and_category_table.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Migrations\\20250830072957_create_product_and_category_table.cs",
               "RelativeDocumentMoniker": "IniGadget\\Migrations\\20250830072957_create_product_and_category_table.cs",
@@ -697,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IniGadget\\Data\\AppDbContext.cs",
@@ -709,19 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Program.cs",
-              "RelativeDocumentMoniker": "IniGadget\\Program.cs",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Program.cs",
-              "RelativeToolTip": "IniGadget\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T01:00:45.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "AuthModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\AuthModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\AuthModel.cs",
@@ -733,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "site.js",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "IniGadget\\wwwroot\\js\\site.js",
@@ -745,19 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "IniGadget\\appsettings.Development.json",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.Development.json",
-              "RelativeToolTip": "IniGadget\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T00:54:16.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "Analytics.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Dashboard\\Analytics.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Dashboard\\Analytics.cshtml",
@@ -769,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Models\\UserViewModel.cs",
               "RelativeDocumentMoniker": "IniGadget\\Models\\UserViewModel.cs",
@@ -781,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Auth\\Login.cshtml",
@@ -793,19 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "_HomeLayout.cshtml",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
-              "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
-              "RelativeToolTip": "IniGadget\\Views\\Shared\\_HomeLayout.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAADYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:07:21.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Shared\\_Layout.cshtml",
@@ -817,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Auth\\Register.cshtml",
@@ -829,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\_ViewStart.cshtml",
@@ -841,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "IniGadget\\Views\\Home\\Privacy.cshtml",
@@ -853,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "20250828012701_add_role.cs",
               "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\Migrations\\20250828012701_add_role.cs",
               "RelativeDocumentMoniker": "IniGadget\\Migrations\\20250828012701_add_role.cs",
@@ -862,18 +908,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T01:27:01.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.json",
-              "RelativeDocumentMoniker": "IniGadget\\appsettings.json",
-              "ToolTip": "D:\\PROJECT MANDIRI\\ASPNET\\IniGadget\\IniGadget\\appsettings.json",
-              "RelativeToolTip": "IniGadget\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T00:54:11.507Z"
             }
           ]
         },

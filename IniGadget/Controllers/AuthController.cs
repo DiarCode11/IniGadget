@@ -58,7 +58,7 @@ namespace IniGadget.Controllers
                         await HttpContext.SignInAsync("Cookies", claimsPricipal);
 
 
-                        return Redirect("/dashboard");
+                        return Redirect("/dashboard/users");
                     }
                 } catch
                 {
